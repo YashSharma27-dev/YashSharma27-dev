@@ -23,7 +23,7 @@ A Node.js/Express load-balancer project exploring traffic distribution across ba
 - Browser dashboard and request logs
 
 ### [Mess Food Suggestion System](https://github.com/YashSharma27-dev/Mess-food-suggestion-system-with-ML-)
-A Python project repository containing an application, a model notebook, and data files. The public repository needs a README explaining the model, inputs, evaluation, and setup before its results can be assessed.
+A Python project exploring mess-food suggestions, with an application, model notebook, and data files. Project documentation and evaluation details are being added.
 
 ## Technologies used in my projects
 
